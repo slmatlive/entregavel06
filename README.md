@@ -14,7 +14,6 @@ Usei apenas recursos do próprio Python, sem precisar instalar bibliotecas exter
 - `loja.py`: contém a classe `Loja`, que armazena os produtos e monta o relatório.
 - `main.py`: cria 10 produtos e mostra o programa funcionando.
 - `teste_sistema.py`: contém os testes automatizados.
-- `saida_exemplo.txt`: mostra o que aparece no terminal quando o programa roda.
 - `.gitignore`: evita adicionar arquivos temporários ao GitHub.
 
 ## Diagrama de classes
